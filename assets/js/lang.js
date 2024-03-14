@@ -43,12 +43,6 @@ const localizations = {
     },
 };
 
-const test_loc =
-{
-    "ABOUT.ME.INTRO": "My name is Dmitry, 21 years old, currently studying Software Engineer at Master's program. I am interested in game development, multiplayer for games. Now I am gradually learning web development and Unity WebGL.",
-    "ED.COURSEWORK": "Coursework: Development of a prototype of a real-time strategy game with network interaction.",
-};
-
 // ---------------------------- todo: to json
 
 function getCurrentLanguage() {
