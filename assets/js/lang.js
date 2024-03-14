@@ -16,7 +16,7 @@ const localizations = {
 
         // main
         "Dmitry Volkov": "Волков Дмитрий",
-        "Software Engineer": "Инженер програмного обеспечения",
+        "Software Engineer": "Инженер программного обеспечения",
         "About": "Обо мне",
         "Education": "Образование",
         "ABOUT.ME.INTRO": "Меня зовут Дмитрий, 21 год, в данный момент учусь на инженера ПО в магистратуре. Интересуюсь разработкой игр, мультиплеером для игр. Сейчас постепенно изучаю веб-разработку и Unity WebGL.",
@@ -41,6 +41,12 @@ const localizations = {
         "ABOUT.ME.INTRO": "My name is Dmitry, 21 years old, currently studying Software Engineer at Master's program. I am interested in game development, multiplayer for games. Now I am gradually learning web development and Unity WebGL.",
         "ED.COURSEWORK": "Coursework: Development of a prototype of a real-time strategy game with network interaction.",
     },
+};
+
+const test_loc =
+{
+    "ABOUT.ME.INTRO": "My name is Dmitry, 21 years old, currently studying Software Engineer at Master's program. I am interested in game development, multiplayer for games. Now I am gradually learning web development and Unity WebGL.",
+    "ED.COURSEWORK": "Coursework: Development of a prototype of a real-time strategy game with network interaction.",
 };
 
 // ---------------------------- todo: to json
